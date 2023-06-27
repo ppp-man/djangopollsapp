@@ -125,4 +125,4 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CSRF_TRUSTED_ORIGINS = ['https://8000-pppman-djangopollsapp-918bencat86.ws-us100.gitpod.io/*']
+CSRF_TRUSTED_ORIGINS = ['https://8000-pppman-djangopollsapp-918bencat86.ws-us100.gitpod.io/*','https://8000-pppman-djangopollsapp-918bencat86.ws-us101.gitpod.io/*']
