@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-!cd0v*xol@f6k=q5k1i=**i(15bpm3dka8ipdd45mk+p7it!th
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-pppman-djangopollsapp-918bencat86.ws-us100.gitpod.io']
+ALLOWED_HOSTS = ['8000-pppman-djangopollsapp-918bencat86.ws-us100.gitpod.io','8000-pppman-djangopollsapp-918bencat86.ws-us101.gitpod.io']
 
 
 # Application definition
